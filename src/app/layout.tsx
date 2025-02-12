@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/myimgforportfoliowebsite.png", // This will now resolve to "https://yourdomain.com/og-image.jpg"
+        url: "/home-portfolio.png", // This will now resolve to "https://yourdomain.com/og-image.jpg"
         width: 1200,
         height: 630,
         alt: "Mahesh Nayak Portfolio Preview",
