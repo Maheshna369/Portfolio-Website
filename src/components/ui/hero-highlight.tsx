@@ -98,7 +98,7 @@ export const Highlight = ({
       className={cn(
         `relative inline-block pb-1 px-1 rounded-lg ${
           showBackground
-            ? "bg-gradient-to-r from-red-500 to-red-500 dark:from-red-500 dark:to-red-500"
+            ? "bg-gradient-to-r from-white to-white dark:from-white dark:to-white"
             : "bg-transparent"
         }`,
         className

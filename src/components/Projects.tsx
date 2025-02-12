@@ -13,7 +13,7 @@ const Projects = () => {
       id="projects"
     >
       <h1 className="flex justify-center items-center text-3xl xl:text-5xl text-white font-bold xl:mb-5 mt-16 mb-10">
-        What I&apos;ve Built
+        What I&apos;ve <span className="text-purple">&nbsp;Built</span>
       </h1>
       <div className="w-full flex flex-col xl:flex-row justify-center items-center flex-wrap xl:justify-between gap-10 xl:gap-40 mb-10">
         <PinContainer

@@ -418,7 +418,7 @@ const Service = () => {
       id="service"
     >
       <h1 className="text-white text-3xl xl:text-5xl font-bold">
-        What I Offer
+        What I <span className="text-purple">Offer</span>
       </h1>
       <div className="text-white  font-medium text-xl xl:text-3xl">
         <Typewriter
@@ -471,13 +471,16 @@ const Service = () => {
               >
                 Know More
               </CardItem>
-              <Button
-                // translateZ={20}
-                target="__blank"
-                className="px-4 py-2 rounded-xl text-medium font-normal text-white"
-              >
-                <Link href="https://www.fiverr.com/s/pd5Aqko">Buy Now</Link>
-              </Button>
+
+              <Link href="https://www.fiverr.com/s/pd5Aqko">
+                <Button
+                  // translateZ={20}
+                  target="__blank"
+                  className="px-4 py-2 rounded-xl text-medium font-normal text-white"
+                >
+                  Buy Now
+                </Button>
+              </Link>
             </div>
           </CardBody>
         </CardContainer>
@@ -496,10 +499,10 @@ const Service = () => {
               className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
             >
               I will create a professional, SEO-friendly, and fully responsive
-              WordPress website tailored to your needs. Whether it&apos;s a business
-              site, portfolio, blog, or e-commerce store, I ensure fast loading
-              speeds, mobile optimization, and custom design to help your site
-              stand out. Let&apos;s build your online presence! 🌐
+              WordPress website tailored to your needs. Whether it&apos;s a
+              business site, portfolio, blog, or e-commerce store, I ensure fast
+              loading speeds, mobile optimization, and custom design to help
+              your site stand out. Let&apos;s build your online presence! 🌐
             </CardItem>
             <CardItem className="mt-5">
               <Image

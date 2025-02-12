@@ -78,7 +78,7 @@ export default function Skills() {
       className="py-10 mx-auto text-white my-10 w-full"
     >
       <h2 className="text-3xl xl:text-5xl font-bold text-center mb-6">
-        My Skills
+        My <span className="text-purple">Skills</span>
       </h2>
       <div className="w-full flex flex-col xl:flex-row h-auto gap-3 xl:gap-5">
         <div className="space-y-4 w-full xl:w-1/2 flex flex-col justify-center items-start">
