@@ -88,7 +88,7 @@ export const ContactMe = () => {
         className="w-full flex flex-col justify-center items-center gap-5 xl:gap-10"
         id="contactme"
       >
-        <h1 className="w-full flex justify-center items-center text-3xl xl:text-5xl font-bold text-white">
+        <h1 className="w-full flex justify-center items-center text-3xl xl:text-5xl font-bold text-white flex-wrap">
           Let&apos;s Build Your <span className="text-purple">&nbsp;Web Solution</span>
         </h1>
         <div className="max-w-md w-full mx-auto rounded-none md:rounded-2xl p-4 md:p-8 shadow-input bg-white dark:bg-black">

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/og-image.jpg", // This will now resolve to "https://yourdomain.com/og-image.jpg"
+        url: "/myimgforportfoliowebsite.png", // This will now resolve to "https://yourdomain.com/og-image.jpg"
         width: 1200,
         height: 630,
         alt: "Mahesh Nayak Portfolio Preview",
@@ -38,8 +38,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="apple-touch-icon" href="/favicon.ico" />
+        <link
+          rel="icon"
+          type="image/png"
+          href="/myimgforportfoliowebsite.png"
+        />
+        <link rel="apple-touch-icon" href="/myimgforportfoliowebsite.png" />
       </head>
       <body className="m-0 box-border p-0">{children}</body>
     </html>
