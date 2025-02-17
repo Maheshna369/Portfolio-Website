@@ -498,7 +498,7 @@ const Service = () => {
               translateZ="60"
               className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
             >
-              I will create a professional Shopify store tailored to your business needs, focusing on SEO optimization and mobile responsiveness. I ensure that your store is fast, user-friendly, and designed to convert visitors into customers. Whether you're launching a new e-commerce store or enhancing an existing one, I provide custom designs, seamless navigation, and optimized performance to help your business succeed. Let’s work together to build a store that delivers results and drives growth for your brand.
+              I will create a professional Shopify store tailored to your business needs, focusing on SEO optimization and mobile responsiveness. I ensure that your store is fast, user-friendly, and designed to convert visitors into customers. Whether you&apos;re launching a new e-commerce store or enhancing an existing one, I provide custom designs, seamless navigation, and optimized performance to help your business succeed. Let&apos;s work together to build a store that delivers results and drives growth for your brand.
             </CardItem>
             <CardItem className="mt-5">
               <Image
