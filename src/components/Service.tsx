@@ -490,7 +490,7 @@ const Service = () => {
               translateZ="50"
               className="text-xl font-bold text-neutral-600 dark:text-white"
             >
-              I Will Create a Professional WordPress Website With SEO & Speed
+              I Will Develop a Shopify Store with SEO & Mobile Optimization
               Optimization
             </CardItem>
             <CardItem
@@ -498,15 +498,11 @@ const Service = () => {
               translateZ="60"
               className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
             >
-              I will create a professional, SEO-friendly, and fully responsive
-              WordPress website tailored to your needs. Whether it&apos;s a
-              business site, portfolio, blog, or e-commerce store, I ensure fast
-              loading speeds, mobile optimization, and custom design to help
-              your site stand out. Let&apos;s build your online presence! 🌐
+              I will create a professional Shopify store tailored to your business needs, focusing on SEO optimization and mobile responsiveness. I ensure that your store is fast, user-friendly, and designed to convert visitors into customers. Whether you're launching a new e-commerce store or enhancing an existing one, I provide custom designs, seamless navigation, and optimized performance to help your business succeed. Let’s work together to build a store that delivers results and drives growth for your brand.
             </CardItem>
             <CardItem className="mt-5">
               <Image
-                src="/comingsoon.png"
+                src="/shopifygigimg.png"
                 height={"1000"}
                 width={"1000"}
                 className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
