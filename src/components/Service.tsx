@@ -447,9 +447,9 @@ const Service = () => {
               className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
             >
               I build modern full-stack websites using MERN & Next.js, ensuring
-              speed, responsiveness, and seamless API integration. Whether it’s
+              speed, responsiveness, and seamless API integration. Whether it&apos;s
               a business site, blog, or e-commerce platform, I deliver secure,
-              scalable, and high-performance solutions. Let’s turn your vision
+              scalable, and high-performance solutions. Let&apos;s turn your vision
               into reality! 🚀
             </CardItem>
             <CardItem className="mt-5">
@@ -498,7 +498,11 @@ const Service = () => {
               translateZ="60"
               className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
             >
-              I will create a Shopify store that is SEO-friendly, mobile-optimized, and designed for high performance. With fast loading speeds and custom designs, your store will be built to convert and drive traffic, helping grow your e-commerce business.
+              I will create a Shopify store that is SEO-friendly,
+              mobile-optimized, and designed for high performance. With fast
+              loading speeds and custom designs, your store will be built to
+              convert and drive traffic, helping grow your e-commerce business.
+            </CardItem>
             <CardItem className="mt-5">
               <Image
                 src="/shopifygigimg.png"
