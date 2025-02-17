@@ -522,13 +522,13 @@ const Service = () => {
               >
                 Know More
               </CardItem>
-              <Button
+              
+                <Link href="https://www.fiverr.com/s/dDrAyl2"><Button
                 // translateZ={20}
                 target="__blank"
                 className="px-4 py-2 rounded-xl text-medium font-normal text-white"
-              >
-                <Link href="https://www.fiverr.com/s/dDrAyl2">Buy Now</Link>
-              </Button>
+              >Buy Now</Button></Link>
+             
             </div>
           </CardBody>
         </CardContainer>
