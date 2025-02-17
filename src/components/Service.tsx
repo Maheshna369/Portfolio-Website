@@ -498,8 +498,7 @@ const Service = () => {
               translateZ="60"
               className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
             >
-              I will build a professional Shopify store that is SEO-friendly, mobile-optimized, and designed to boost sales. With fast loading speeds, custom designs, and a focus on conversion optimization, I ensure your store stands out and drives traffic. Whether you&apos;re starting a new e-commerce website or upgrading an existing one, I&apos;ll help you create a high-performance Shopify store that supports your business growth.
-            </CardItem>
+              I will create a Shopify store that is SEO-friendly, mobile-optimized, and designed for high performance. With fast loading speeds and custom designs, your store will be built to convert and drive traffic, helping grow your e-commerce business.
             <CardItem className="mt-5">
               <Image
                 src="/shopifygigimg.png"
@@ -513,7 +512,7 @@ const Service = () => {
               <CardItem
                 translateZ={20}
                 as={Link}
-                href="#"
+                href="https://www.fiverr.com/s/dDrAyl2"
                 target="__blank"
                 className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white"
               >
@@ -524,7 +523,7 @@ const Service = () => {
                 target="__blank"
                 className="px-4 py-2 rounded-xl text-medium font-normal text-white"
               >
-                <Link href="https://www.fiverr.com/s/pd5Aqko">Buy Now</Link>
+                <Link href="https://www.fiverr.com/s/dDrAyl2">Buy Now</Link>
               </Button>
             </div>
           </CardBody>
